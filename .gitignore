@@ -1,3 +1,5 @@
 #Ignore le dossier results
 
 /results
+
+.DS_Store
